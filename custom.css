@@ -1,0 +1,70 @@
+
+
+/*change nav brand font*/
+.navbar-brand 
+{
+font-family: 'Roboto', sans-serif;
+font-size: 1.5em;
+font-weight: bold;
+
+}
+
+/*change nav content color*/
+.navbar #mymenu .custom-nav .nav-item a
+{
+color: #fff;
+}
+
+.navbar #mymenu .custom-nav .nav-item a:hover
+{
+ color:#f0aab1;
+}
+
+.navbar-right
+{
+	
+	
+	margin-left: 300px;
+}
+.theme-bg-color{
+    background-color: #130B24;
+}
+.navbar-text
+{
+	 font-family:Brush Script MT;
+	 font-size: 1em;
+}
+
+/*Header css end hear*/
+
+.bg-image
+{
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	min-height: 90vh;
+	border-radius: 0px;
+	margin-top:62px 
+
+}
+
+.heading
+{
+	margin-top: 40px;
+}
+
+.subtit
+{
+font-family:Brush Script MT;
+	 font-size: 2em;	
+}
+
+@media only screen and (max-width: 600px)
+{
+	.mob
+	{
+		margin-top: 250px;
+		text-align: center;
+	}
+}
+
